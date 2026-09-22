@@ -10,12 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 🎓 Final Year B.Tech student specializing in Artificial Intelligence and Data Science  
 
-💻 My Interests:
-- Artificial Intelligence
-- Machine Learning
-- Data Analysis
-- Data Science
-
 ---
 
 ## 🛠 Skills & Tools
@@ -25,19 +19,21 @@ You can click the Preview link to take a look at your changes.
 - Python
 - SQL
 
-### 📊 Data Analysis & Machine Learning
+### 📊 AI/ML
+- Machine Learning
+- Generative AI
+- Natural Language Processing (NLP)
+- Retrieval-Augmented Generation (RAG)
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
-- Data Visualization
-- Machine Learning Algorithms
 - Model Training
 
 ### 📚 Libraries & Frameworks
+- LangChain
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
-- Plotly
 - Streamlit
 - Scikit-learn
 
@@ -68,5 +64,5 @@ B.Tech in Artificial Intelligence and Data Science
 ---
 
 ## 🤝 Let's Connect
-
-💼 Open to collaborations, internships, and learning opportunities.
+I'm interested in opportunities involving AI/ML, Generative AI, Python development, and Data Analytics.
+Open to collaborations, internships, and learning opportunities.
